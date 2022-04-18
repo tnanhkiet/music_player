@@ -44,7 +44,7 @@ const app = {
         },
         {
             name: 'Stream Đến Bao Giờ',
-            singer: 'ĐỘ Mixi ft. Bạn Sáng Tác',
+            singer: 'Độ Mixi ft. Bạn Sáng Tác',
             path: './assets/audio/StreamDenBaoGio.mp3',
             image: './assets/img/StreamDenBaoGio.jpg'
         },
