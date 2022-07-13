@@ -114,7 +114,7 @@ html {
 
 .progress {
     width: 100%;
-    accent-color: #ec1f55;
+    accent-color: var(--primary-color);
 }
 
 /* Playlist */
